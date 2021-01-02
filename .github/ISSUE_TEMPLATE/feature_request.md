@@ -1,22 +1,20 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: '[feat] '
 labels: ''
 assignees: ''
 
 ---
 
-<!-- It's just a template, so you don't have to fill in all the items. -->
+<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# 概要
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+# 目的
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+# 提案内容
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+# タスク
+
+- [ ] 細かいタスクに分解できているなら書き出す
