@@ -1,21 +1,27 @@
-<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
+<!-- It's just a template, so you don't have to fill in all the items. -->
 
-# 概要
+# Title
 
-<!-- 変更の目的 もしくは 関連する Issue 番号 -->
+# Overview
 
-# 変更内容
+<!-- Purpose of changes or related issue number -->
 
-<!-- ビューの変更がある場合はスクショによる比較などがあるとわかりやすい -->
+# Changes
 
-# 影響範囲
+<!-- If there is a change in the view, it is easy to understand if there is a comparison by screenshot etc. -->
 
-<!-- この関数を変更したのでこの機能にも影響がある、など -->
+# Impacts
 
-# 動作要件
+<!-- Since I changed this function, this function is also affected, etc. -->
 
-<!-- 動作に必要な 環境変数 / 依存関係 / DBの更新 など -->
+# Requirements
 
-# 補足
+<!-- Environment variables required for operation / dependencies / DB updates, etc. -->
 
-<!-- レビューをする際に見てほしい点、ローカル環境で試す際の注意点、など -->
+# References
+
+<!-- Referenced sites and literature links, etc. -->
+
+# supplement
+
+<!-- Points to see when reviewing, points to note when trying in a local environment, etc. -->
