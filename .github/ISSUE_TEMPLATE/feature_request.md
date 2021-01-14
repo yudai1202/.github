@@ -1,20 +1,27 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: '[feat] '
-labels: ''
-assignees: ''
-
+title: "[feat] "
+labels: ""
+assignees: ""
 ---
 
-<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
+<!-- It's just a template, so you don't have to fill in all the items. -->
 
-# 概要
+# Title
 
-# 目的
+## Overview
 
-# タスク
+## Proposals
 
-- [ ] 細かいタスクに分解できているなら書き出す
+## Tasks
 
-# 参考
+<!-- Export if it can be broken down into small tasks -->
+
+- [ ]
+
+## References
+
+<!-- Referenced sites and literature links, etc. -->
+
+
