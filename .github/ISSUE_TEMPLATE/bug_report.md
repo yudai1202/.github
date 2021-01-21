@@ -3,18 +3,19 @@ name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
-<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
+<!-- It's just a template, so you don't have to fill in all the items. -->
 
-# 概要
+# Title
 
-# 再現手順
+## Overview
 
-# 修正しないとどう困るか
+## Reproduction procedure
 
-# 原因
+## What if I don't fix it?
 
-# 修正案
+## Causes
+
+## Solutions

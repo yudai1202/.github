@@ -1,9 +1,11 @@
-<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
+<!-- It's just a template, so you don't have to fill in all the items. -->
 
-# 問題の背景
+# Title
 
-# 何が問題なのか
+## Background
 
-# 解決方法
+## Poroblem
+
+## Solutions
 
 - [ ]
